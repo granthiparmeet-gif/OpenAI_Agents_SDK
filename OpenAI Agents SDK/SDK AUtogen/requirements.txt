@@ -1,0 +1,6 @@
+fastapi>=0.111
+uvicorn[standard]>=0.30
+python-dotenv>=1.0
+openai-agents          # Agents SDK
+autogen-agentchat>=0.4       
+autogen-ext[openai]>=0.4     
